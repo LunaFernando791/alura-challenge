@@ -1,5 +1,10 @@
 <h1>The Secret Friend Game</h1>
 <p>This project is part of a activity to complete the Oracle Next Education program. Your can push any quantity of friends and then they are inserted in an array, and the program will choose one of them to be the secret friend.</p>
+
+
+https://github.com/user-attachments/assets/07dad94c-fe62-478f-ade3-3911a7c8fff1
+
+
 <hr>
 <h2>Functions</h2>
 This project have four functions: 
